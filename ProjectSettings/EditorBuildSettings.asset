@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: []
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: cca6bfc8f038eed438c092966f143082, type: 2}
+    ai.natml.hub.settings: {fileID: 11400000, guid: b6d8bfbe0588704458267204c130e215, type: 2}
+    ai.natml.natcorder.settings: {fileID: 11400000, guid: 7a17ad9a101b6134f850c01cdd72ef8c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c4e027801fd96b548854bac7e2c3c1a3, type: 2}
